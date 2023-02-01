@@ -7,7 +7,7 @@ I am a highly motivated junior full-stack developer with experience in JavaScrip
 [linkedin-url]: linkedin.com/in/david-beninson
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 
-[gmail-shield]: https://img.shields.io/badge/-Gmail-lightred.svg?style=flat-square&logo=gmail&colorB=#wight
+[gmail-shield]: https://img.shields.io/badge/-Gmail-lightred.svg?style=flat-square&logo=gmail&colorB=#aaaaa
 [gmail-url]: mailto:davidbeninson@gmail.com
 [![Gmail][gmail-shield]][gmail-url]
 
